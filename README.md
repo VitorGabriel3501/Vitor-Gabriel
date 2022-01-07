@@ -1,6 +1,6 @@
-✌️##OLA!Eu sou o Vitor Gabriel
-🚗Sou manobrista
-👨‍💻Cursando Analise e Desenvolvimento de Sistemas
+//✌️##OLA!Eu sou o Vitor Gabriel
+//🚗Sou manobrista
+//👨‍💻Cursando Analise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/ga3501">
